@@ -1,5 +1,5 @@
 # Arsh Anwar aka d4rklucif3r
-
+---
 ## Can found me on:
 - [Twitter](https://twitter.com/d4rklucif3r)
 - [Email](mailto:lucifer78908@gmail.com)
@@ -46,19 +46,19 @@
 - Windows
 - MacOS
 
-## Tools
+### Tools
 - Visual Studio
 - Git
 
----
+
 ### Learning about: 
 - CircleCi
 - GithubActions
 - Ethical Hacking
 
 ---
-### Ongoing Project:
-- [LuciferKernel(https://github.com/d4rk-lucif3r/LuciferKernel)
+## Ongoing Project:
+- [LuciferKernel](https://github.com/d4rk-lucif3r/LuciferKernel)
   - [XDA thread](https://forum.xda-developers.com/mi-a1/development/kernel-lucifer-kernel-v3-oc-nonoc-t4186317)
   - [PLing](https://www.pling.com/p/1441583/)
   - [telegram Group](https://t.me/luciferkernel)
