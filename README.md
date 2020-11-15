@@ -55,6 +55,7 @@
 - CircleCi
 - GithubActions
 - Ethical Hacking
+- App Development
 
 ---
 ## Ongoing Project:
