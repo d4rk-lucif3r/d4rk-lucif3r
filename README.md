@@ -13,7 +13,7 @@
 ---
 
 ## About me
-
+- Full Stack Developer
 - A curious person by nature. 
 - Huuuuuuuuuuuuuuuge fan iron man. I love him 3000❤
 - Love to explore different things. 
@@ -32,6 +32,7 @@
 - Java
 - Bash
 - Dart
+- QML
 
 
 ### Tech/Frameworks:
@@ -51,6 +52,8 @@
 ### Tools
 - Visual Studio
 - Git
+- Qt Design Studio
+- Qt Creator
 
 
 ### Learning about: 
