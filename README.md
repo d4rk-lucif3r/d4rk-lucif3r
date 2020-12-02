@@ -1,5 +1,5 @@
 # Arsh Anwar aka d4rklucif3r
-[![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=d4rk-lucif3r)](https://github.com/anuraghazra/github-readme-stats)
+![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=d4rk-lucif3r&show_icons=true&theme=dark)
 ---
 ## Can found me on:
 - [Twitter](https://twitter.com/d4rklucif3r)
