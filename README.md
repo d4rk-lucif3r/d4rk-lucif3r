@@ -1,6 +1,6 @@
 # Arsh Anwar aka d4rklucif3r
 ![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=d4rk-lucif3r&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rk-lucif3r&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=100)
 ---
 ## Can found me on:
 - [Twitter](https://twitter.com/d4rklucif3r)
