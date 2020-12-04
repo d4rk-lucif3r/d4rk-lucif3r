@@ -68,11 +68,11 @@
 
 ---
 ## Ongoing Project:
-- [LuciferKernel](https://github.com/d4rk-lucif3r/LuciferKernel)
+- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d4rk-lucif3r&repo=LuciferKernel&theme=dark)
   - [XDA thread](https://forum.xda-developers.com/mi-a1/development/kernel-lucifer-kernel-v3-oc-nonoc-t4186317)
   - [PLing](https://www.pling.com/p/1441583/)
   - [telegram Group](https://t.me/luciferkernel)
-- [Project Infinity](https://github.com/d4rk-lucif3r/Project-Infinity)
+- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Project-Infinity&theme=dark)
 
 ---
   
