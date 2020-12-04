@@ -75,7 +75,8 @@
 - ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Project-Infinity&theme=dark)
 
 ---
-  
+## Wakatime Stats
+![Arsh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d4rklucif3r)
 
 
 
