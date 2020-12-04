@@ -41,6 +41,7 @@
 - Flutter
 - Metasploit
 - The Pentester's Framework
+- Continuous Integration
 
 ### Operating Systems:
 
