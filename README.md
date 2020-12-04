@@ -1,6 +1,7 @@
 # Arsh Anwar aka d4rklucif3r
-![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=d4rk-lucif3r&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=100&layout=compact&theme=dark)
+- ![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=d4rk-lucif3r&show_icons=true&theme=dark)
+- ![Arsh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=100&layout=compact&theme=dark)
+![Arsh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d4rklucif3r)
 ---
 ## Can found me on:
 - [Twitter](https://twitter.com/d4rklucif3r)
@@ -75,8 +76,8 @@
 - ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Project-Infinity&theme=dark)
 
 ---
-## Wakatime Stats
-![Arsh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d4rklucif3r)
+
+
 
 
 
