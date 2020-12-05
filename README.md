@@ -2,6 +2,7 @@
 - ![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=d4rk-lucif3r&show_icons=true&theme=dark&layout=compact)
 - ![Arsh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rk-lucif3r&langs_count=100&layout=compact&theme=dark&custom_title=Arsh%27s%20Most%20Used%20Languages&card_width=444)
 - ![Arsh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d4rklucif3r&theme=dark&custom_title=Arsh%27s%20Wakatime%20Weekly%20Stats&card_width=440)
+- Wakatime Stats not working
 ---
 ## Can found me on:
 - [Twitter](https://twitter.com/d4rklucif3r)
