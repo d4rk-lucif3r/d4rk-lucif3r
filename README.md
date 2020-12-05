@@ -70,12 +70,12 @@
 
 ---
 ## Ongoing Project:
-- ![LuciferKernel Card](https://github-readme-stats.vercel.app/api/pin/?username=d4rk-lucif3r&repo=LuciferKernel&theme=dark)
+- [![LuciferKernel Card](https://github-readme-stats.vercel.app/api/pin/?username=d4rk-lucif3r&repo=LuciferKernel&theme=dark)](https://github.com/d4rk-lucif3r/LuciferKernel)
   - [XDA thread](https://forum.xda-developers.com/mi-a1/development/kernel-lucifer-kernel-v3-oc-nonoc-t4186317)
   - [PLing](https://www.pling.com/p/1441583/)
   - [telegram Group](https://t.me/luciferkernel)
-- ![ProjectInfinity Card](https://github-readme-stats.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Project-Infinity&theme=dark)
-- ![ProjectInfinity Card](https://github-readme-stats.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Smart-Alarm-Clock&theme=dark)
+- [![ProjectInfinity Card](https://github-readme-stats.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Project-Infinity&theme=dark)](https://github.com/d4rk-lucif3r/Project-Infinity)
+- [![ProjectInfinity Card](https://github-readme-stats.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Smart-Alarm-Clock&theme=dark)](https://github.com/d4rk-lucif3r/Smart-Alarm-Clock)
 
 ---
 
