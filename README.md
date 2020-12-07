@@ -23,8 +23,8 @@
 - Huuuuuuuuuuuuuuuge fan iron man. I love him 3000❤
 - Love to explore different things. 
 - Car and Bike enthusiast
-- Coffee Lover
-- Just another Beginner
+- Coffee Lover☕
+
 
 ---
 ## Working with:
@@ -56,7 +56,7 @@
 - MacOS
 
 ### Tools
-- Visual Studio
+- Visual Studio Code
 - Git
 - Qt Design Studio
 - Qt Creator
