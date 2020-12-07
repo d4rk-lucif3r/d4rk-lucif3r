@@ -12,6 +12,7 @@
 - [XDA](https://forum.xda-developers.com/member.php?u=11193889)
 - [Telegram](https://t.me/d4rklucif3r)
 - [Linkedin](https://www.linkedin.com/in/arsh-anwar-51ab6b19a/)
+- [Wakatime](https://wakatime.com/@d4rklucif3r)
 
 
 ---
