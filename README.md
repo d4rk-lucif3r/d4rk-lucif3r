@@ -79,6 +79,7 @@
   - [telegram Group](https://t.me/luciferkernel)
 - [![ProjectInfinity Card](https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Project-Infinity&theme=dark)](https://github.com/d4rk-lucif3r/Project-Infinity)
 - [![ProjectInfinity Card](https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Smart-Alarm-Clock-API&theme=dark)](https://github.com/d4rk-lucif3r/Smart-Alarm-Clock)
+- [![Machine Learning Model Card](https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Machine-Learning-ModelsI&theme=dark)](https://github.com/d4rk-lucif3r/Machine-Learning-Models)
 
 ---
 ![](https://hit.yhype.me/github/profile?user_id=45912425)
