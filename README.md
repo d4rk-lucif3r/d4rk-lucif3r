@@ -160,7 +160,7 @@ Coffee Lover☕ <br>
 <h2 align="center">📚 Learning About 📚</h2>
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/-CircleCi-black?style=for-the-badge&logo=circleci" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"><img src="https://img.shields.io/badge/Github Actions-black?style=for-the-badge&logo=anaconda" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/Github Actions-black?style=for-the-badge&logo=github-actions" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-Ethical Hacking-black?style=for-the-badge&logo=shell" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-App Development-black?style=for-the-badge&logo=android" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
