@@ -1,5 +1,9 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'/>
+
+---
 # Arsh Anwar aka d4rklucif3r
 ---
+
 ## As Usual Some Stats!
 - [![Arsh's github stats](https://github-readme-stats.d4rk-lucif3r.vercel.app/api?username=d4rk-lucif3r&show_icons=true&theme=dark&layout=compact&count_private=true)](https://github.com/d4rk-lucif3r/github-readme-stats)
 - [![Arsh's Top Langs](https://github-readme-stats.d4rk-lucif3r.vercel.app/api/top-langs/?username=d4rk-lucif3r&langs_count=100&layout=compact&theme=dark&custom_title=Arsh%27s%20Most%20Used%20Languages&card_width=444&count_private=true)](https://github.com/d4rk-lucif3r/github-readme-stats)
