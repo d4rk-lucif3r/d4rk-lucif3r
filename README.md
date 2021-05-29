@@ -8,7 +8,7 @@
 </p>
 
 ---
-<h1 align="center">As Usual Some Stats!</h1>
+<h1 align="center">📈 As Usual Some Stats! 📈</h1>
 
 <p align="center" >
   <a target="_blank" href="https://github.com/d4rk-lucif3r/github-readme-stats">
@@ -37,7 +37,7 @@
 ---
 
 
-<h1 align="center" >👨‍💻 Whoami</h1>
+<h1 align="center" >👨‍💻 Whoami 👨‍💻</h1>
 
 <div align="center">
 Self Taught Full Stack Developer.<br>
@@ -61,30 +61,43 @@ Coffee Lover☕ <br>
   </tbody>
 </table>
 
-<table align='center'>
-  <thead>
+<table align = 'center' cellspacing="0" cellpadding="0" border="0">
+    <thead>
     <tr>
-      <th>Top Tracks</th>
+       <td align='center'colspan="2">Top tracks</td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://now-playing-readme.vercel.app/top-tracks?i=1&open"><img src="https://now-playing-readme.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
+        <td style="text-align: center;">
+          <a href="https://now-playing-readme.vercel.app/top-tracks?i=1&open">
+            <img src="https://now-playing-readme.vercel.app/top-tracks?i=1" alt=""  />
+          </a>
+        </td>
+        <td style="text-align: center;">
+          <a href="https://now-playing-readme.vercel.app/top-tracks?i=2&open">
+            <img src="https://now-playing-readme.vercel.app/top-tracks?i=2" alt="" '/>
+          </a>
+        </td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://now-playing-readme.vercel.app/top-tracks?i=2&open"><img src="https://now-playing-readme.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://now-playing-readme.vercel.app/top-tracks?i=3&open"><img src="https://now-playing-readme.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
+        <td style="text-align: center;">
+          <a href="https://now-playing-readme.vercel.app/top-tracks?i=3&open">
+            <img src="https://now-playing-readme.vercel.app/top-tracks?i=3" alt="" '/>
+          </a>
+        </td>
+        <td style="text-align: center;">
+          <a href="https://now-playing-readme.vercel.app/top-tracks?i=4&open">
+            <img src="https://now-playing-readme.vercel.app/top-tracks?i=4" alt="" />
+          </a>
+        </td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-<h1 align="center">📫 Can found me on</h1>
+<h1 align="center">📫 Can found me on 📫</h1>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/d4rk-lucif3r/"><img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/d4rklucif3r"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -98,9 +111,9 @@ Coffee Lover☕ <br>
 ---
 
 
-<h1 align="center">Working with</h1>
+<h1 align="center">💼 Working with 💼</h1>
 </br>
-<h2 align="center">Languages</h2>
+<h2 align="center">📙 Languages 📙</h2>
 
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -114,14 +127,14 @@ Coffee Lover☕ <br>
 </p>
  </br>
  
-<h2 align="center">Tech/Frameworks</h2>
+<h2 align="center">🤖 Tech/Frameworks 🤖</h2>
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </br>
 
-<h2 align="center">Operating Systems</h2>
+<h2 align="center">💻 Operating Systems 💻</h2>
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=Windows" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-MacOS-black?style=for-the-badge&logo=Apple" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -131,7 +144,7 @@ Coffee Lover☕ <br>
 </p>
 </br>
 
-<h2 align="center">Tools</h2>
+<h2 align="center">🛠️ Tools 🛠️</h2>
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/-VS-black?style=for-the-badge&logo=visual-studio-code" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -144,7 +157,7 @@ Coffee Lover☕ <br>
 </p>
 </br>
 
-<h2 align="center">Learning About</h2>
+<h2 align="center">📚 Learning About 📚</h2>
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/-CircleCi-black?style=for-the-badge&logo=circleci" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/Github Actions-black?style=for-the-badge&logo=anaconda" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -155,7 +168,7 @@ Coffee Lover☕ <br>
 </br>
 
 ---
-<h2 align="center">Ongoing Projects</h2>
+<h2 align="center">🚧 Ongoing Projects 🚧</h2>
 
 <br />
 <table align = 'center' cellspacing="0" cellpadding="0" border="0">
