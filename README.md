@@ -117,7 +117,7 @@ Coffee Lover☕ <br>
 
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"><img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c%2B%2B" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
