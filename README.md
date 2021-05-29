@@ -51,7 +51,7 @@ Coffee Lover☕ <br>
 <table align='center'>
   <thead>
     <tr>
-      <th>Now Playing</th>
+      <th>🎵 Now Playing 🎵</th>
     </tr>
   </thead>
   <tbody>
@@ -64,7 +64,7 @@ Coffee Lover☕ <br>
 <table align = 'center' cellspacing="0" cellpadding="0" border="0">
     <thead>
     <tr>
-       <td align='center'colspan="2">Top tracks</td>
+       <td align='center'colspan="2">🎶 Top tracks 🎶</td>
     </tr>
   </thead>
   <tbody>
