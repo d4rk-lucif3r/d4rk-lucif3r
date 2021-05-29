@@ -1,7 +1,16 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'/>
-
 ---
+
+<img align='right' src='https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif' width='200'/>
+</br>
+</br>
+</br>
+
 # Arsh Anwar aka d4rklucif3r
+
+</br>
+</br>
+</br>
+
 ---
 ## As Usual Some Stats!
 - [![Arsh's github stats](https://github-readme-stats.d4rk-lucif3r.vercel.app/api?username=d4rk-lucif3r&show_icons=true&theme=dark&layout=compact&count_private=true)](https://github.com/d4rk-lucif3r/github-readme-stats)
@@ -9,21 +18,26 @@
 - [![Arsh's wakatime stats](https://github-readme-stats.d4rk-lucif3r.vercel.app/api/wakatime?username=d4rklucif3r&theme=dark&custom_title=Arsh%27s%20Wakatime%20Weekly%20Coding%20Stats&card_width=440)](https://wakatime.com/@d4rklucif3r)
 
 ---
-## Can found me on:
-- [Twitter](https://twitter.com/d4rklucif3r)
+## 📫 Can found me on:
+
+<p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/d4rk-lucif3r/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/d4rklucif3r"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lucifer78908@gmail.com?subject=Hello%20Arsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<!-- - [Twitter](https://twitter.com/d4rklucif3r)
 - [Email](mailto:lucifer78908@gmail.com)
 - [Instagram](https://www.instagram.com/l_u_c_i_f_3_r._)
 - [HackTheBox](https://www.hackthebox.eu/profile/319127)
 - [XDA](https://forum.xda-developers.com/member.php?u=11193889)
 - [Telegram](https://t.me/d4rklucif3r)
-- [Linkedin](https://www.linkedin.com/in/arsh-anwar-51ab6b19a/)
-- [Wakatime](https://wakatime.com/@d4rklucif3r)
-
-
+- [Linkedin](www.linkedin.com/in/d4rk-lucif3r) -->
 ---
 
 ## About me
-- Full Stack Developer
+- Self Taught Full Stack Developer
 - A curious person by nature. 
 - Huuuuuuuuuuuuuuuge fan iron man. I love him 3000❤
 - Love to explore different things. 
