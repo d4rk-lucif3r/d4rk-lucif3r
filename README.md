@@ -105,6 +105,9 @@ Coffee Lover☕ <br>
   <a href="mailto:lucifer78908@gmail.com?subject=Hello%20Arsh,%20From%20Github"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/d4rklucif3r"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackthebox.eu/profile/319127"><img src="https://img.shields.io/badge/-Hackthebox-black?style=for-the-badge&logo=hackthebox" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.fiverr.com/arshanwar"><img src="https://img.shields.io/badge/-Fiverr-black?style=for-the-badge&logo=fiverr" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
+<a href="https://www.upwork.com/freelancers/~01a00225f1a2e2731a"><img src="https://img.shields.io/badge/-UpWork-black?style=for-the-badge&logo=upwork" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
+<a href="https://contra.com/arsh_anwar"><img src="https://img.shields.io/badge/-Contra-black?style=for-the-badge&logo=contra" /></a>&nbsp;&nbsp;&nbsp;&nbsp;    
 </p>
 </br>
 
