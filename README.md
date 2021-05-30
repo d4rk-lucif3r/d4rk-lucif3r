@@ -64,7 +64,7 @@ Coffee Lover☕ <br>
 <table align = 'center' cellspacing="0" cellpadding="0" border="0">
     <thead>
     <tr>
-       <td align='center'colspan="2">🎶 My Top tracks 🎶</td>
+       <td align='center'colspan="2">🎶 My Top Tracks 🎶</td>
     </tr>
   </thead>
   <tbody>
