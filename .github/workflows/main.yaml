@@ -1,0 +1,29 @@
+name: 🧪
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: ./
+      with:
+        issue: 1
+        approvers: |
+          joshmgross
+        guestbook-path: guestbook.md
+    - name: Update guestbook
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git config --local user.email "actions@github.com"
+          git config --local user.name "${{ github.actor }}"
+          git add guestbook.md
+          git commit -m "✏ Update guestbook"
+          git push
+        fi
