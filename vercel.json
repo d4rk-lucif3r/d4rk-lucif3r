@@ -1,0 +1,5 @@
+{
+  "name": "d4rk-lucif3r/d4rk-lucif3r",
+  "version": 2,
+  "rewrites": [{ "source": "/(.*)", "destination": "/api/$1" }]
+}
