@@ -48,7 +48,13 @@ Car and Bike enthusiast<br>
 Coffee Lover☕ <br>
   </br>
 </div>
-<table align='center'>
+<p align="center">
+  <a href="https://d4rk-lucif3r.vercel.app/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://d4rk-lucif3r.vercel.app/now-playing">
+  </a>
+</p>
+<!-- <table align='center'>
   <thead>
     <tr>
       <th>🎵 Now Playing 🎵</th>
@@ -56,12 +62,14 @@ Coffee Lover☕ <br>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://now-playing-readme.vercel.app/now-playing?open"><img src="https://now-playing-readme.vercel.app/now-playing" width="540" height="64"></a></td>
+      <td><a href="https://d4rk-lucif3r.vercel.app/now-playing?open"><img src="https://d4rk-lucif3r.vercel.app/now-playing" width="540" height="64"></a></td>
     </tr>
   </tbody>
-</table>
-
-<table align = 'center' cellspacing="0" cellpadding="0" border="0">
+</table> -->
+<p align="center">
+  <img src="https://d4rk-lucif3r.vercel.app/api/top-played">
+</p>
+<!-- <table align = 'center' cellspacing="0" cellpadding="0" border="0">
     <thead>
     <tr>
        <td align='center'colspan="2">🎶 My Top Tracks 🎶</td>
@@ -93,7 +101,7 @@ Coffee Lover☕ <br>
         </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ---
 
