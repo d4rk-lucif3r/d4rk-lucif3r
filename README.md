@@ -124,6 +124,8 @@ Coffee Lover☕ <br>
   <a target="_blank"><img src="https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnu-bash" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=Dart" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-Qml-black?style=for-the-badge&logo=Qt" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=Html5" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
  </br>
  
@@ -131,6 +133,7 @@ Coffee Lover☕ <br>
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-OpenCV-black?style=for-the-badge&logo=openCV" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </br>
 
