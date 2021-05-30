@@ -1,6 +1,6 @@
 {
-  "name": "guilyx-profile-page",
-  "version": "1.1.1",
+  "name": "d4rk-lucif3r-profile-page",
+  "version": "1.1.3",
   "description": "Github profile README.md",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guilyx/guilyx.git"
+    "url": "git+https://github.com/d4rk-lucif3r/d4rk-lucif3r.git"
   },
-  "author": "Andrew Young",
+  "author": "Lucifer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guilyx/guilyx/issues"
+    "url": "https://github.com/d4rk-lucif3r/d4rk-lucif3r/issues"
   },
-  "homepage": "https://github.com/guilyx/guilyx#readme",
+  "homepage": "https://github.com/d4rk-lucif3r/d4rk-lucif3r/#readme",
   "dependencies": {
     "@vercel/node": "^1.9.1",
     "axios": "^0.21.1",
