@@ -1,0 +1,2 @@
+<!--START:guestbook-->
+<!--END:guestbook-->
