@@ -195,8 +195,8 @@ Coffee Lover☕ <br>
           </a>
         </td>
         <td style="text-align: center;">
-          <a href="https://github.com/d4rk-lucif3r/Project-Infinity">
-            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Project-Infinity&theme=dark" alt="" />
+          <a href="https://github.com/d4rk-lucif3r/ML-Portfolio">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=ML-Portfolio&theme=dark" alt="" />
           </a>
         </td>
     </tr>
@@ -210,6 +210,18 @@ Coffee Lover☕ <br>
           <a href="https://github.com/d4rk-lucif3r/Machine-Learning-Models">
             <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Machine-Learning-Models&theme=dark" alt="" />
           </a>
+        </td>
+    </tr>
+   <tr height ='140px'>
+        <td style="text-align: center;">
+          <a href="https://github.com/d4rk-lucif3r/Project-Infinity">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Project-Infinity&theme=dark" alt="" />
+          </a>
+        </td>
+        <td style="text-align: center;">
+<!--           <a href="https://github.com/d4rk-lucif3r/Machine-Learning-Models">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Machine-Learning-Models&theme=dark" alt="" />
+          </a> -->
         </td>
     </tr>
 </table>
