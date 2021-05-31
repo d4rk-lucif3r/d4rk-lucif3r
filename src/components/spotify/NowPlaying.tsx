@@ -57,7 +57,7 @@ export const Player: React.FC<IPlayerProps> = ({
           style={{
             alignItems: 'center',
             display: 'flex',
-            background: 'rgb(1,1,1,.6)',
+            background: 'rgb(255,255,255)',
             border: '1px solid rgba(125, 125, 125, .3)',
             borderRadius: '.3rem',
             margin: '.5rem 0',
