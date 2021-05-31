@@ -114,6 +114,7 @@ export const TopPlayed: React.FC<ITopPlayedProps> = ({
           }
           
           .title {
+            color: 'white',
             animation-delay: 0ms;
             text-align: center;
             margin: .5rem .5rem 1rem;
