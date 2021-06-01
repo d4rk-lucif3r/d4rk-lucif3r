@@ -2,13 +2,13 @@
 
 
 
-<h1 align="center">Arsh Anwar aka d4rklucif3r</h1>
+<h1 align="center"  style="color:white;">Arsh Anwar aka d4rklucif3r</h1>
 <p align="center" >
 <img align='center' src='https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif' width='200'/>
 </p>
 
 ---
-<h1 align="center">📈 As Usual Some Stats! 📈</h1>
+<h1 align="center"  style="color:white;">📈 As Usual Some Stats! 📈</h1>
 
 <p align="center" >
   <a target="_blank" href="https://github.com/d4rk-lucif3r/github-readme-stats">
@@ -37,7 +37,7 @@
 ---
 
 
-<h1 align="center" >👨‍💻 Whoami 👨‍💻</h1>
+<h1 align="center"  style="color:white;" >👨‍💻 Whoami 👨‍💻</h1>
 
 <div align="center">
 Self Taught Full Stack Developer.<br>
@@ -105,7 +105,7 @@ Coffee Lover☕ <br>
 
 ---
 
-<h1 align="center">📫 Can found me on 📫</h1>
+<h1 align="center"  style="color:white;">📫 Can found me on 📫</h1>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/d4rk-lucif3r/"><img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/d4rklucif3r"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -123,9 +123,9 @@ Coffee Lover☕ <br>
 ---
 
 
-<h1 align="center">💼 Working with 💼</h1>
+<h1 align="center"  style="color:white;">💼 Working with 💼</h1>
 </br>
-<h2 align="center">📙 Languages 📙</h2>
+<h2 align="center"  style="color:white;">📙 Languages 📙</h2>
 
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -142,7 +142,7 @@ Coffee Lover☕ <br>
 </p>
  </br>
  
-<h2 align="center">🤖 Tech/Frameworks 🤖</h2>
+<h2 align="center"  style="color:white;">🤖 Tech/Frameworks 🤖</h2>
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -150,7 +150,7 @@ Coffee Lover☕ <br>
 </p>
 </br>
 
-<h2 align="center">💻 Operating Systems 💻</h2>
+<h2 align="center"  style="color:white;">💻 Operating Systems 💻</h2>
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=Windows" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-MacOS-black?style=for-the-badge&logo=Apple" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -160,7 +160,7 @@ Coffee Lover☕ <br>
 </p>
 </br>
 
-<h2 align="center">🛠️ Tools 🛠️</h2>
+<h2 align="center"  style="color:white;">🛠️ Tools 🛠️</h2>
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/-VS-black?style=for-the-badge&logo=visual-studio-code" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -173,7 +173,7 @@ Coffee Lover☕ <br>
 </p>
 </br>
 
-<h2 align="center">📚 Learning About 📚</h2>
+<h2 align="center"  style="color:white;">📚 Learning About 📚</h2>
 <p align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/-CircleCi-black?style=for-the-badge&logo=circleci" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/Github Actions-black?style=for-the-badge&logo=github-actions" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -184,7 +184,7 @@ Coffee Lover☕ <br>
 </br>
 
 ---
-<h2 align="center">🚧 Ongoing Projects 🚧</h2>
+<h2 align="center"  style="color:white;">🚧 Ongoing Projects 🚧</h2>
 
 <br />
 <table align = 'center' cellspacing="0" cellpadding="0" border="0">
@@ -225,6 +225,10 @@ Coffee Lover☕ <br>
         </td>
     </tr>
 </table>
+
+
+
+
 
 ---
 ![](https://hit.yhype.me/github/profile?user_id=45912425)
