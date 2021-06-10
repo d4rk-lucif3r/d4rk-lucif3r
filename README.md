@@ -202,8 +202,8 @@ Coffee Lover☕ <br>
     </tr>
     <tr height ='140px'>
         <td style="text-align: center;">
-          <a href="https://github.com/d4rk-lucif3r/Smart-Alarm-Clock">
-            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Smart-Alarm-Clock-API&theme=dark" alt="" />
+          <a href="https://github.com/d4rk-lucif3r/EasifyML">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=EasifyML&theme=dark" alt="" />
           </a>
         </td>
         <td style="text-align: center;">
@@ -219,9 +219,9 @@ Coffee Lover☕ <br>
           </a>
         </td>
         <td style="text-align: center;">
-<!--           <a href="https://github.com/d4rk-lucif3r/Machine-Learning-Models">
-            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Machine-Learning-Models&theme=dark" alt="" />
-          </a> -->
+          <a href="https://github.com/d4rk-lucif3r/Smart-Alarm-Clock">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Smart-Alarm-Clock-API&theme=dark" alt="" />
+          </a>
         </td>
     </tr>
 </table>
