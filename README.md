@@ -190,8 +190,8 @@ Coffee Lover☕ <br>
 <table align = 'center' cellspacing="0" cellpadding="0" border="0">
     <tr height ='140px'>
         <td style="text-align: center;">
-          <a href="https://github.com/d4rk-lucif3r/LuciferKernel">
-            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=LuciferKernel&theme=dark" alt="" />
+          <a href="https://github.com/d4rk-lucif3r/LuciferML">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=LuciferML&theme=dark" alt="" />
           </a>
         </td>
         <td style="text-align: center;">
@@ -214,13 +214,13 @@ Coffee Lover☕ <br>
     </tr>
    <tr height ='140px'>
         <td style="text-align: center;">
-          <a href="https://github.com/d4rk-lucif3r/Project-Infinity">
-            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Project-Infinity&theme=dark" alt="" />
+          <a href="https://github.com/d4rk-lucif3r/LuciferKernel">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=LuciferKernel&theme=dark" alt="" />
           </a>
         </td>
         <td style="text-align: center;">
-          <a href="https://github.com/d4rk-lucif3r/Smart-Alarm-Clock">
-            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Smart-Alarm-Clock-API&theme=dark" alt="" />
+          <a href="https://github.com/d4rk-lucif3r/Project-Infinity">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Project-Infinity&theme=dark" alt="" />
           </a>
         </td>
     </tr>
