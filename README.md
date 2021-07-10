@@ -219,8 +219,20 @@ Coffee Lover☕ <br>
           </a>
         </td>
         <td style="text-align: center;">
+          <a href="https://github.com/d4rk-lucif3r/Currency-Detection-OpenCV">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Currency-Detection-OpenCV&theme=dark" alt="" />
+          </a>
+        </td>
+    </tr>
+     <tr height ='140px'>
+        <td style="text-align: center;">
           <a href="https://github.com/d4rk-lucif3r/Project-Infinity">
             <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Project-Infinity&theme=dark" alt="" />
+          </a>
+        </td>
+        <td style="text-align: center;">
+          <a href="https://github.com/d4rk-lucif3r/Home-Automation">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Home-Automation&theme=dark" alt="" />
           </a>
         </td>
     </tr>
