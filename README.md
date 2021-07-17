@@ -195,8 +195,8 @@ Coffee Lover☕ <br>
           </a>
         </td>
         <td style="text-align: center;">
-          <a href="https://github.com/d4rk-lucif3r/ML-Portfolio">
-            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=ML-Portfolio&theme=dark" alt="" />
+          <a href="https://github.com/d4rk-lucif3r/Portfolio">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=Portfolio&theme=dark" alt="" />
           </a>
         </td>
     </tr>
