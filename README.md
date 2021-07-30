@@ -147,6 +147,7 @@ Coffee Lover☕ <br>
   <a target="_blank"><img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"><img src="https://img.shields.io/badge/-OpenCV-black?style=for-the-badge&logo=openCV" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Qt-black?style=for-the-badge&logo=openCV" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </br>
 
