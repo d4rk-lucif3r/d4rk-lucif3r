@@ -36,7 +36,7 @@ export const Player: React.FC<IPlayerProps> = ({
         color="standard"
         size="title"
         weight="bold">
-        { isPlaying ? '🎵 This is what I\'m currently Jamming to 🎵' : '🎵 Last Jammed On 🎵' }
+        { isPlaying ? '🎵 This is what I\'m currently Jamming to 🎵' : '🎵 Last Jammed To 🎵' }
       </Text>
 
       <div className="now-playing-wrapper">
