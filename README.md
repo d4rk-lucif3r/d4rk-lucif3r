@@ -42,7 +42,7 @@
 <div align="center">
 Self Taught Full Stack Developer.<br>
 A curious person by nature. <br>
-Huuuuuuuuuuuuuuuge fan iron man. I love him 3000❤.<br>
+Huuuuuuuuuuuuuuuge fan of iron man. I love him 3000❤.<br>
 Love to explore different things. <br>
 Car and Bike enthusiast<br>
 Coffee Lover☕ <br>
