@@ -40,13 +40,11 @@
 <h1 align="center"  style="color:white;" >👨‍💻 Whoami 👨‍💻</h1>
 
 <div align="center">
-Self Taught Full Stack Developer.<br>
-A curious person by nature. <br>
-Huuuuuuuuuuuuuuuge fan of iron man. I love him 3000❤.<br>
-Love to explore different things. <br>
-Car and Bike enthusiast<br>
-Coffee Lover☕ <br>
-  </br>
+👋Hola! Arsh Anwar here.<br>
+I'm a machine learning professional, a data scientist by profession, and a naturally curious person who loves to try new things. <br>
+I am particularly interested in conceptual and analytical thinking.<br>
+I have worked on several solo projects and am looking for a position where I can learn and grow. <br>
+ </br>
 </div>
 <p align="center">
   <a href="https://d4rk-lucif3r.vercel.app/now-playing?open">
