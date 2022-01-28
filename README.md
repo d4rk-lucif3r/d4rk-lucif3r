@@ -41,7 +41,7 @@
 
 <div align="center">
 👋Hola! Arsh Anwar here.<br>
-I'm a machine learning professional, a data scientist by profession, and a naturally curious person who loves to try new things. <br>
+I'm a machine learning engineer and a data scientist by profession, and a naturally curious person who loves to try new things. <br>
 I am particularly interested in conceptual and analytical thinking.<br>
 I have worked on several solo projects and am looking for a position where I can learn and grow. <br>
  </br>
