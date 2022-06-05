@@ -64,9 +64,9 @@ I have worked on several solo projects and am looking for a position where I can
     </tr>
   </tbody>
 </table> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://d4rk-lucif3r.vercel.app/api/top-played">
-</p>
+</p> -->
 <!-- <table align = 'center' cellspacing="0" cellpadding="0" border="0">
     <thead>
     <tr>
