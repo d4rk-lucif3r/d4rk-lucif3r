@@ -203,7 +203,7 @@ I have worked on several solo projects and am looking for a position where I can
     <tr height ='140px'>
         <td style="text-align: center;">
           <a href="https://github.com/d4rk-lucif3r/My-CV">
-            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=d4rk-lucif3r&repo=My-CV&theme=dark" alt="" />
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=Revca-ANAI&repo=ANAI&theme=dark" alt="" />
           </a>
         </td>
         <td style="text-align: center;">
