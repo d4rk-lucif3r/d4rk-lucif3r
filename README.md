@@ -202,7 +202,7 @@ I have worked on several solo projects and am looking for a position where I can
     </tr>
     <tr height ='140px'>
         <td style="text-align: center;">
-          <a href="https://github.com/d4rk-lucif3r/My-CV">
+          <a href="https://github.com/Revca-ANAI/ANAI">
             <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=Revca-ANAI&repo=ANAI&theme=dark" alt="" />
           </a>
         </td>
