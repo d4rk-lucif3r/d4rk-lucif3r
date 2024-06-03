@@ -105,7 +105,7 @@ I have worked on several solo projects and am looking for a position where I can
 
 <h1 align="center"  style="color:white;">📫 Can found me on 📫</h1>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/arsha/"><img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/arshanwar/"><img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/d4rklucif3r"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.instagram.com/l_u_c_i_f_3_r._"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lucifer78908@gmail.com?subject=Hello%20Arsh,%20From%20Github"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
