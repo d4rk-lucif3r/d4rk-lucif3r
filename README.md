@@ -141,8 +141,4 @@ class Developer:
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://hit.yhype.me/github/profile?user_id=45912425)
-
-</div>
+![](https://hit.yhype.me/github/profile?user_id=45912425)
